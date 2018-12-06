@@ -1,5 +1,6 @@
 Intégrez la maquette du site d'une agence web
 
+
 Le site doit tenir sur une page avec un menu qui reste visible, en haut de la page, meme lorsque l'on se déplace dans la page. Les différentes sections attendues sont :
 
     Un premier écran d'accueil de bienvenue, très visuel
@@ -50,8 +51,9 @@ Présenter une réalisation de manière professionnelle
 
  
 Compétences évaluées :
-Définir le contenu d'une page web à partir d'une maquette
-Gérer la responsivité avec les Media Queries
-Présenter une réalisation de manière professionnelle
-Coder la présentation d'une page web en CSS
-Coder la structure d'une page web en HTML
+
+    Définir le contenu d'une page web à partir d'une maquette
+    Gérer la responsivité avec les Media Queries
+    Présenter une réalisation de manière professionnelle
+    Coder la présentation d'une page web en CSS
+    Coder la structure d'une page web en HTML
