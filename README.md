@@ -4,14 +4,11 @@ Intégrez la maquette du site d'une agence web
 Le site doit tenir sur une page avec un menu qui reste visible, en haut de la page, meme lorsque l'on se déplace dans la page. Les différentes sections attendues sont :
 
     Un premier écran d'accueil de bienvenue, très visuel
-
     La liste des services offerts par l'agence
-
     Des exemples de projets déjà réalisés
-
     Une carte avec un formulaire de contact (on ne vous demande pas de faire marcher le formulaire, juste de l'afficher).
+    Le site sera réalisé en HTML et CSS (sans framework tel que Bootstrap).
 
-Le site sera réalisé en HTML et CSS (sans framework tel que Bootstrap).
 
 Définir le contenu d'une page web à partir d'une maquette
 
@@ -40,17 +37,8 @@ Coder la présentation d'une page web en CSS
     Des règles CSS @media  et/ou des feuilles de styles dédiées identifiées par un attribut mediasont utilisées
     Aucun Framework (type Bootstrap) n'est utilisé pour ce projet
 
-Présenter une réalisation de manière professionnelle
-
-    La soutenance est préparée
-    La tenue et l'attitude sont appropriées
-    Le support de présentation est soigné, respecte la structure imposée et le temps imparti
-    Le temps de présentation est respecté
-    Les réponses aux questions sont pertinentes
-    
-
  
-Compétences évaluées :
+Compétences évaluées
 
     Définir le contenu d'une page web à partir d'une maquette
     Gérer la responsivité avec les Media Queries
